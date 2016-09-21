@@ -1,4 +1,6 @@
 Answers/*
 Answers/
 Answers
-.ipy*
+.ipynb_checkpoints/*
+.ipynb_checkpoints/
+.ipynb_checkpoints
